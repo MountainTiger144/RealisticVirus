@@ -1,4 +1,4 @@
-# Windows RealisticVirus [0.1]
+# Windows RealisticVirus [1.0]
 
 ###### *If you have any ideas on how to make this better, make a `Issue`*
 
