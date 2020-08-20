@@ -1,6 +1,6 @@
 # Windows RealisticVirus [0.1]
 
-###### *By using this **.bat** file, you understand that your friendship with whoever you try this on could be ruined. jk.*
+###### *If you have any ideas on how to make this better, make a `Issue`*
 
 ![Screenshot](https://i.imgur.com/Pf69ux2.jpg)
 
