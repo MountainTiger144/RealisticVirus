@@ -1,6 +1,6 @@
 # Windows RealisticVirus [1.0]
 
-###### *If you have any ideas on how to make this better, make a `Issue`*
+###### *If you have any ideas on how to make this better, make an `Issue`*
 
 ![Screenshot](https://i.imgur.com/Pf69ux2.jpg)
 
