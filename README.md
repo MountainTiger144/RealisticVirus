@@ -14,4 +14,21 @@
 
 ![Screenshot](https://i.imgur.com/zHUAO2j.jpg)
 
-3. Edit the icon to be a aplication icon and enjoy the fun!
+3. Edit the icon to be a aplication icon (discord.ico ect.) and enjoy the fun!
+
+###### *NOTE: You can change the color of the text by changing:
+```bat
+title Virus
+
+color 04
+
+echo WINDOWS...
+```
+To
+```bat
+title Virus
+
+color (01,02,03,04,05, ect.)
+
+echo WINDOWS... 
+```
